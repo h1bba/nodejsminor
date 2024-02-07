@@ -1,2 +1,2 @@
 # nodejsminor
-Node JS starter kit basically
+Node JS start
